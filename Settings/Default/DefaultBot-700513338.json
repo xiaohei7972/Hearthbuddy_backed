@@ -1,0 +1,16 @@
+{
+  "ConstructedGameRule": 1,
+  "ConstructedCustomDeck": "龙",
+  "LastDeckId": 9037834448,
+  "AutoGreet": false,
+  "ReleaseLimitW": 192,
+  "ReleaseLimitH": 108,
+  "ReleaseLimit": true,
+  "AutoConcedeAfterConstructedWin": false,
+  "NormalConcede": false,
+  "ForceConcedeAtMulligan": false,
+  "AutoConcedeMinDelayMs": 100,
+  "AutoConcedeMaxDelayMs": 1500,
+  "SliderShopSpeedRatioText": "1.0",
+  "SliderShopSpeedRatio": 1.0
+}

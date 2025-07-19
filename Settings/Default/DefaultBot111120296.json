@@ -1,0 +1,16 @@
+{
+  "ConstructedGameRule": 1,
+  "ConstructedCustomDeck": "猎",
+  "LastDeckId": 9049736005,
+  "AutoGreet": false,
+  "ReleaseLimitW": 192,
+  "ReleaseLimitH": 108,
+  "ReleaseLimit": true,
+  "AutoConcedeAfterConstructedWin": false,
+  "NormalConcede": false,
+  "ForceConcedeAtMulligan": false,
+  "AutoConcedeMinDelayMs": 150,
+  "AutoConcedeMaxDelayMs": 300,
+  "SliderShopSpeedRatioText": "1.0",
+  "SliderShopSpeedRatio": 1.0
+}
